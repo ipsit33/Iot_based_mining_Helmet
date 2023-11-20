@@ -13,8 +13,8 @@
 #include <BlynkSimpleEsp32.h>
 
 char auth[] = BLYNK_AUTH_TOKEN;
-char ssid[] = "realme Gt Neo 3t";
-char pass[] = "ipanu@123";
+char ssid[] = "YOUR HOTSPOT USERNAME";
+char pass[] = "YOUR HOTSPOT PASSWORD";
 
 BlynkTimer timer;
 
