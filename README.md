@@ -5,7 +5,8 @@
 The implementation of the IoT-based mining helmet has the potential to revolutionize the mining industry by significantly reducing the incidence of occupational accidents and fatalities. The integration of advanced sensors and alert systems provides miners with crucial information and warnings in real time, allowing them to make informed decisions and take appropriate measures to ensure their safety. This report will delve into the various components used in the smart miner helmet, their functionalities, and the benefits they offer in enhancing miner safety in the mining industry.
 </p>
 <b>Helmet Model</b><br>
-<img src = " https://github.com/ipsit33/Iot_based_mining_Helmet/assets/85749577/f339bf48-8124-499a-80c0-20430b6074c9" />
+![Uploading model.jpg…]()
+
 
 <b> Cloud-based Application </b><br>
 ![Blank 2 Grids Collage](https://github.com/ipsit33/Iot_based_mining_Helmet/assets/85749577/a1b879c8-d6bc-48b0-94db-055dc4ca6fff)
